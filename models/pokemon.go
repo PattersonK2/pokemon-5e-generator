@@ -76,12 +76,12 @@ Abilities: %s
 Hidden Ability: %s
 
 Level-Up Moves:
-  Starting: %s
-  Level 2:  %s
-  Level 6:  %s
-  Level 10: %s
-  Level 14: %s
-  Level 18: %s
+	Starting: %s
+	Level 2:  %s
+	Level 6:  %s
+	Level 10: %s
+	Level 14: %s
+	Level 18: %s
 
 TMs: %v
 Egg Moves: %s
