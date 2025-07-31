@@ -8,6 +8,7 @@ import (
 )
 
 func main() {
+
 	// Create the app
 	myApp := app.New()
 	myWindow := myApp.NewWindow("Pokémon Builder & Randomizer")
